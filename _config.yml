@@ -22,19 +22,19 @@ author:
 version:             1.0.0
 
 # Social
-meetup:              http://meetup.com/frenchpsug
-  name:              ''
+meetup:
+  name:              'FrPSUG'
   url:               'http://meetup.com/frenchpsug'
 twitter:             
   name:              'FrPSUG'
   url:               'http://twitter.com/frpsug'
 
 # Github
-github:              ''
-  organization:      ''
+github:              
+  organization:      
     name:            'Twitter @FrPSUG'
     url:             'https://github.com/orgs/FrPSUG/dashboard'
   repo:
-    presentations:      ''
+    presentations:      
       name:            'Presentations'
       url:             'https://github.com/FrPSUG/Presentations'

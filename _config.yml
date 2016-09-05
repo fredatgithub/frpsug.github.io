@@ -21,6 +21,20 @@ author:
 # Custom vars
 version:             1.0.0
 
-
 # Social
-meetup:             http://meetup.com/frenchpsug
+meetup:              http://meetup.com/frenchpsug
+  name:              ''
+  url:               'http://meetup.com/frenchpsug'
+twitter:             
+  name:              'FrPSUG'
+  url:               'http://twitter.com/frpsug'
+
+# Github
+github:              ''
+  organization:      ''
+    name:            'FrPSUG'
+    url:             'https://github.com/orgs/FrPSUG/dashboard'
+  repo:
+    presentations:      ''
+      name:            'Presentations'
+      url:             'https://github.com/FrPSUG/Presentations'

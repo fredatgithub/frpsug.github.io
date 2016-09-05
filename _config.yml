@@ -23,7 +23,7 @@ version:             1.0.0
 
 # Social
 meetup:
-  name:              'FrPSUG'
+  name:              'Meetup'
   url:               'http://meetup.com/frenchpsug'
 twitter:             
   name:              'FrPSUG'
@@ -32,7 +32,7 @@ twitter:
 # Github
 github:              
   organization:      
-    name:            'Twitter @FrPSUG'
+    name:            'Suivez nous sur @FrPSUG'
     url:             'https://github.com/orgs/FrPSUG/dashboard'
   repo:
     presentations:      

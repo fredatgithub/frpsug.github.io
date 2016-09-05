@@ -8,13 +8,11 @@ permalink:           pretty
 title:               "French PowerShell User Group"
 tagline:             "Groupe d'utilisateurs PowerShell francophone"
 description:         "French PowerShell User Group"
-<<<<<<< HEAD
 url:                 http://frpsug.github.io
 baseurl:             "https://frpsug.github.io/"
 =======
 #url:                 http://frpsug.github.io
 baseurl:             ''
->>>>>>> refs/remotes/origin/master
 paginate:            5
 
 # About/contact

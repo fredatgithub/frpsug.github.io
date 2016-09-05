@@ -7,14 +7,14 @@
 # Setup
 title:               "French PowerShell User Group"
 tagline:             "Groupe d'utilisateurs PowerShell francophone"
-description:         "test"
+description:         "French PowerShell User Group"
 url:                 http://frpsug.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              X
+  name:              FrPSUG
   url:               https://twitter.com/frpsug
   email:             frpsug@gmail.com
 

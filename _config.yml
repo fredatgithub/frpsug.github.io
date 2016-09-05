@@ -5,7 +5,7 @@
 #relative_permalinks: false
 
 # Setup
-title:               'frpsug'
+title:               "frpsug"
 tagline:             'Groupe d'utilisateurs PowerShell francophone'
 description:         'test'
 url:                 http://frpsug.github.io

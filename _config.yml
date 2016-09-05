@@ -6,8 +6,8 @@
 
 # Setup
 title:               "frpsug"
-tagline:             'Groupe d'utilisateurs PowerShell francophone'
-description:         'test'
+tagline:             "Groupe d'utilisateurs PowerShell francophone"
+description:         "test"
 url:                 http://frpsug.github.io
 baseurl:             ''
 paginate:            5

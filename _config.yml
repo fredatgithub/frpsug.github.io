@@ -1,15 +1,20 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-#permalink:           pretty
-#relative_permalinks: false
+permalink:           pretty
+#relative_permalinks: true
 
 # Setup
 title:               "French PowerShell User Group"
 tagline:             "Groupe d'utilisateurs PowerShell francophone"
 description:         "French PowerShell User Group"
+<<<<<<< HEAD
 url:                 http://frpsug.github.io
 baseurl:             "https://frpsug.github.io/"
+=======
+#url:                 http://frpsug.github.io
+baseurl:             ''
+>>>>>>> refs/remotes/origin/master
 paginate:            5
 
 # About/contact

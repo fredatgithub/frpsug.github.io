@@ -9,7 +9,7 @@ title:               "French PowerShell User Group"
 tagline:             "Groupe d'utilisateurs PowerShell francophone"
 description:         "French PowerShell User Group"
 url:                 http://frpsug.github.io
-baseurl:             ''
+baseurl:             "https://frpsug.github.io/"
 paginate:            5
 
 # About/contact

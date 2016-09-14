@@ -11,8 +11,12 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date: "%Y/%m/%d" }}</span>
+    {% if post.author %}
+      <span class="post-date">{{ post.date | date: "%Y/%m/%d" }} - {{ post.author }}</span>
+    {% else %}
+      <span class="post-date">{{ post.date | date: "%Y/%m/%d" }}</span>
+    {% endif %}
+    
 
     {{ post.content }}
   </div>

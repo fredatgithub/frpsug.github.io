@@ -23,4 +23,4 @@ Le prochain meetup aura lieu le 18 Octobre à la meme heure sur le sujet "Utilis
 
 ## Le chat sur Slack
 
-En attendant, rejoignez-nous sur le Channel <b>#french</b> de <a href="https://powershell.slack.com/Slack">PowerShell.slack.com</a>  (<a href="http://slack.poshcode.org/">S'inscrire</a>)</b> pour continuer la conversation :-)
+En attendant, rejoignez-nous sur le Channel <b>#french</b> de <a href="https://powershell.slack.com/Slack">PowerShell.slack.com</a>  (<a href="http://slack.poshcode.org/">S'inscrire</a>) pour continuer la conversation :-)

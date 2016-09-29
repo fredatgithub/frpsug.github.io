@@ -118,7 +118,7 @@ title: Organisateurs
     </tr>
     <tr>
         <td>Blog </td>
-        <td> <a href="http://pwrshell.net/">http://pwrshell.net/</a> </td>
+        <td> <a href="https://pwrshell.net/">http://pwrshell.net/</a> </td>
     </tr>
     <tr>
         <td>Github</td>

@@ -108,8 +108,8 @@ title: Organisateurs
     </tr>
     <tr>
         <td>Biographie</td>
-        <td> Fabien est un constructeur de cloud reconnu dans tout l'héxagone. Il aide ses clients a implémenter des clouds dans Azure utilisant des technologies tel que Docker et les containers, en combinaisons avec PowerShell. <br>
-        Fabien est localisé dans la région Nantaise, et est toujours partant, pour une bonne bière Belge ;)
+        <td> Fabien est un architecte cloud reconnu dans tout l'héxagone. Il aide les clients SII à implémenter des clouds. <br>
+        Fabien est localisé dans la région Rennaise, et est toujours partant, pour une bonne bière Belge ;)
         </td>
     </tr>
     <tr>

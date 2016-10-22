@@ -15,8 +15,9 @@ title: Organisateurs
     </tr>
     <tr>
         <td>Biographie</td>
-        <td> François Xavier aka, le LazyWinAdmin, contribue activement à la communauté powershell depuis bien des années <br>
-        Ce français expatrié au Canada (Montréal) utilise powershell quotidiennement afin de simplifier les tâches répététives qu'il à a faire.  
+        <td> François-Xavier (FX) contribue activement à la communauté PowerShell depuis bien des années, notamment à travers son blog LazyWinadmin.<br>
+        FX travaille actuellement chez Morgan Stanley en tant que Specialiste Automatisation.
+        Il vie au Canada depuis 2004 et utilise PowerShell quotidiennement afin de simplifier les tâches répététives.  
         </td>
     </tr>
     <tr>

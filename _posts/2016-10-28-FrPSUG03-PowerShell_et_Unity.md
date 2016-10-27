@@ -28,8 +28,8 @@ Le lien du meeting sera envoyé uniquement aux personnes inscrites à la rencont
 <td> L'intégration de PowerShell et Unity nous permet de créer des applications en 3D gérées par PowerShell, par exemple pour faire de la supervision.
 
 Cette session nous montre les bases de Unity ainsi le développement client/serveur en PowerShell/C# afin de superviser des environnements tels que des serveurs, l'Active Directory, des serveurs en cloud et plus.
-
-TL;DR : Unity c'est cool et PowerShell l'est encore plus!</td>
+<br>
+<u>TL;DR :</u> Unity c'est cool et PowerShell l'est encore plus!</td>
 </tr>
 <tr>
     <td>Présentateur</td>

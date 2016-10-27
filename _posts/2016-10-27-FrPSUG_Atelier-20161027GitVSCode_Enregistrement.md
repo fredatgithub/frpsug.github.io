@@ -14,7 +14,7 @@ L'enregistrement et la présentation powerpoint sont maintenant disponible ci-de
 <u>Présentation</u> : [Github repo](https://github.com/FrPSUG/Presentations/)
 
 <u>Enregistrement</u>:
-<iframe width="560" height="315" src="https://youtu.be/XTylo_RW8Fg?t=209" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTylo_RW8Fg" frameborder="0" allowfullscreen></iframe>
 
 
 ## Prochain meetup

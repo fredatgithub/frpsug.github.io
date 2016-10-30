@@ -38,3 +38,7 @@ github:
     presentations:      
       name:            'Presentations'
       url:             'https://github.com/FrPSUG/Presentations'
+
+
+# Filtering Content
+future:      false # Don't show the pages with future date

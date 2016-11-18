@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FrPSUG 2016/11/17 - PowerShell et Unity - Enregistrement, présentation et scripts
+title: PowerShell et Unity - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: false
 ---

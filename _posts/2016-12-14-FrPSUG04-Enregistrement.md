@@ -11,7 +11,7 @@ L'enregistrement, la présentation et les scripts sont maintenant disponible.
 
 ## PowerShell et Pester
 
-<u>Présentation et Scripts PowerShell</u> : [Github repo](https://github.com/FrPSUG/Presentations/tree/master/)
+<u>Présentation et Scripts PowerShell</u> : [Github repo](https://github.com/FrPSUG/Presentations/tree/master/20161214-Pester%20(Fabien%20Dibot))
 
 <u>Enregistrement</u>:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO3GaSpLIdE" frameborder="0" allowfullscreen></iframe>

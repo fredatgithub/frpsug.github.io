@@ -2,10 +2,10 @@
 layout: post
 title: Pester - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
-comments: false
+comments: true
 ---
 
-Un énorme merci au présentateur, à tous les participants et aux organisateurs!!
+Un énorme merci au présentateur Fabien Dibot, à tous les participants et aux organisateurs!!
 
 L'enregistrement, la présentation et les scripts sont maintenant disponible.
 

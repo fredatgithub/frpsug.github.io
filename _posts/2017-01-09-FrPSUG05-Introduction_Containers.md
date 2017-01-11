@@ -34,7 +34,7 @@ Le lien du meeting sera envoyé uniquement aux personnes inscrites à la rencont
 </tr>
 <tr>
     <td>Quand</td>
-<td> <b>2017/01/11 20:00 (heure de Paris)</b></td>
+<td> <b>2017/01/11 20:00 (Heure de Paris)</b></td>
 </tr>
 <tr>
     <td>S'inscrire</td>

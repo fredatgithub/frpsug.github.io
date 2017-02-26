@@ -15,9 +15,9 @@ title: Organisateurs
     </tr>
     <tr>
         <td>Biographie</td>
-        <td> François-Xavier (FX) contribue activement à la communauté PowerShell depuis bien des années, notamment à travers son blog LazyWinadmin.<br>
-        FX travaille actuellement chez Morgan Stanley en tant que Specialiste Automatisation.
-        Il vie au Canada depuis 2004 et utilise PowerShell quotidiennement afin de simplifier les tâches répététives.  
+        <td> François-Xavier (FX) contribue activement à la communauté PowerShell depuis de nombreuses années, notamment à travers son blog LazyWinadmin et des outils/scripts qu'il met a disposition de tous sur Github/Technet Gallery/PowerShell Gallery.<br>
+        Francois-Xavier travaille actuellement dans le secteur financier en tant qu'Ingénieur systèmes.
+        Il travaille regulièrement avec les produits telque Active Directory, la suite System Center (surtout sur SCCM/ConfigMgr, SCSM, Orchestrator/Scorch), SMA, VMware vSphere, Office365, ...
         </td>
     </tr>
     <tr>

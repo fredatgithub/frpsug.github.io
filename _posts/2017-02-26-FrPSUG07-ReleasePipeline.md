@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FrPSUG 2017/03/15 Release Pipeline
+title: FrPSUG 2017/03/15 PowerShell Release Pipeline
 author: Francois-Xavier Cat
 comments: false
 ---
@@ -22,7 +22,7 @@ Le lien du meeting sera envoyé aux personnes inscrites à la rencontre Meetup (
 </tr>
 <tr>
     <td>Sujet</td>
-<td> <b>Release Pipeline</b></td>
+<td> <b>PowerShell Release Pipeline</b></td>
 </tr>
 <tr>
     <td>Description</td>

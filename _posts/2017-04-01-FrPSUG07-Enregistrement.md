@@ -16,7 +16,7 @@ L'enregistrement, la présentation et les scripts sont disponible.
 <u>Enregistrement</u>:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJ140S4mCfM" frameborder="0" allowfullscreen></iframe>
 
-<u>Pour Suivre Gael Colas:</u>
+<u>Pour Suivre Stijn Callebaut:</u>
 * Website: [http://www.inovativ.be/](http://www.inovativ.be/)
 * Twitter: [https://twitter.com/stijnca](https://twitter.com/stijnca)
 * Github: [https://github.com/Stijnc](https://github.com/Stijnc)

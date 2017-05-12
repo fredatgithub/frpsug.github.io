@@ -21,6 +21,14 @@ L'enregistrement, la présentation et les scripts sont disponible.
 * Github: [https://github.com/fmichaleczek](https://github.com/Stijnc)
 
 
+<u>Les differents liens du meeting:</u>
+* [WMF 5.1 - Console Improvements](https://msdn.microsoft.com/en-us/powershell/wmf/5.1/console-improvements?f=255&MSPPError=-2147217396)
+* [Module PowerLine (Jaykul)](https://github.com/Jaykul/PowerLine)
+* [Module PSCLRCLI (Flavien)](https://github.com/fmichaleczek/PSClrCli)
+* [Module Pansies (Jaykul)](https://github.com/PoshCode/Pansies)
+
+
+
 ## Prochain meetup
 Le prochain meetup aura lieu le 06 Juin 2017 à 19 heure sur <b>"Les outils PowerShell pour SQL"</b> présenter par <b>Grégory Boge</b>.
 

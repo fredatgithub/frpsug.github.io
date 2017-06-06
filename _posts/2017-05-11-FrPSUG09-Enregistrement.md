@@ -17,8 +17,8 @@ L'enregistrement, la présentation et les scripts sont disponible.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XR06_VOqbGs" frameborder="0" allowfullscreen></iframe>
 
 <u>Pour Suivre Flavien Michaleczek:</u>
-* Twitter: [https://twitter.com/_Flavien](https://twitter.com/stijnca)
-* Github: [https://github.com/fmichaleczek](https://github.com/Stijnc)
+* Twitter: [https://twitter.com/_Flavien](https://twitter.com/_Flavien)
+* Github: [https://github.com/fmichaleczek](https://github.com/fmichaleczek)
 
 
 <u>Les differents liens du meeting:</u>

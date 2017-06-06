@@ -23,7 +23,7 @@ Nous avons une limite actuelle de __60 places__. **Pour des raison de logistique
 Nous recherchons des sessions sur PowerShell de niveau Intermediaire (200), Avancé (300) ou Expert (400). 
 
 ### Quel Sujet ?
-Nous n'avons pas de requis en ce qui concerne les sujets.
+Nous n'avons pas de prérequis en ce qui concerne les sujets.
 
 Cependant si vous n'avez pas d'idee, voici quelques suggestions : Un module que vous avez ecris, Un projet ou une solution cool mise en place, Un aspect du language PowerShell ou nouvelle feature de PowerShell 5.1/6.0, Containers, PowerShell DSC, Rest-API, Azure, Office365, PowerShell sur Linux, Powershell Best Practices, PowerShell Performance, Créer des interfaces graphique, DevOps, Release Pipeline, etc... 
 

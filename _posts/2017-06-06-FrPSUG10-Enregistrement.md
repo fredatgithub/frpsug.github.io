@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text User Interface (TUI) - Enregistrement, présentation et scripts
+title: Les outils Powershell pour SQL - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
 ---

@@ -7,7 +7,7 @@ comments: true
 
 Un énorme merci au présentateur Gregory Boge, à tous les participants et organisateurs!!
 
-L'enregistrement est maintenant disponible.
+L'enregistrement est maintenant disponible
 
 ## Les outils Powershell pour SQL
 

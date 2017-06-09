@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PowerShell Saturday Paris 2017 - Call for Speakers
+title: PowerShell Saturday Paris 2017 - Appel aux conférenciers / Call for Speakers
 author: Francois-Xavier Cat
 comments: false
 ---
@@ -17,7 +17,7 @@ Pour cette occasion nous vous donnons rendez-vous à Paris le 16 Septembre 2017 
 Nous avons une limite actuelle de __60 places__. **Pour des raison de logistique SVP inscrivez-vous uniquement si vous avez la certitude d'y assister.**
 
 
-# Call for speakers / Sessions
+# Appel aux conférenciers / Call for speakers
 
 ### Quel Niveau ?
 Nous recherchons des sessions sur PowerShell de niveau Intermediaire (200), Avancé (300) ou Expert (400). 

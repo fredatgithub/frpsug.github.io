@@ -29,7 +29,7 @@ Le lien du meeting sera envoyé aux personnes inscrites à la rencontre Meetup (
 <td> Configuration Management with Chef, Kitchen, PowerShell and DSC
 
 
-![Chef](images/2017/chef_icon.png?raw=true "Chef")
+
 </td>
 </tr>
 <tr>

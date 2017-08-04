@@ -33,9 +33,9 @@ Heure | Speaker | Description
 11h30 | **Mickaël Lopes / Etienne Deneuve** | PowerShell pour tous les contrôler
 12h30 |  | `<Lunch>`
 14h00 | **Romain Serre** | Déployer un cluster Windows Server 2016 hyperconvergé automatiquement
-15h00 | **Alban Moreau** | Comment gerer l'ensemble des consoles Powershell dans un environnement office 365 hybride
+15h00 | **Alban Moreau** | Comment gérer l'ensemble des consoles Powershell dans un environnement office 365 hybride
 16h00 | **Florent Appointaire** | Azure Automation: Pourquoi l'adopter en entreprise
-17h00 |  | Discussion / `Get-Apero` / Restaurant pour les interesses
+17h00 |  | Discussion / `Get-Apero` / Restaurant pour les intéréssés
 
 # Lieu de l'événement
 

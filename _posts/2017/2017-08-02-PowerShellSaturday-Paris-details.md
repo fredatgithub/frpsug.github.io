@@ -9,7 +9,7 @@ Notre événement **PowerShell Saturday Paris** approche a grand pas!
 
 Celui-ci aura lieu le mois prochain, le 16 Septembre 2017 à partir de 9h00 chez Cellenza (adresse ci-dessous).
 
-Merci à tous ceux ayant soumis une présentations et aux participants pour leur intérêt.
+Merci à tous ceux ayant soumis une présentation et aux participants pour leur intérêt.
 
 # Inscription
 

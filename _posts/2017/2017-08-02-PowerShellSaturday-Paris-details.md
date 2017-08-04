@@ -30,7 +30,7 @@ Heure | Speaker | Description
 09h20 | **Organisateurs** | Mot de Bienvenue
 09h30 | **Metsys** | TBD
 10h30 | **Olivier Miossec** | PowerShell et Hyper-V
-11h30 | **Mickaël Lopes** | PowerShell pour tous les contrôler
+11h30 | **Mickaël Lopes / Etienne Deneuve** | PowerShell pour tous les contrôler
 12h30 |  | `<Lunch>`
 14h00 | **Romain Serre** | Déployer un cluster Windows Server 2016 hyperconvergé automatiquement
 15h00 | **Alban Moreau** | Comment gerer l'ensemble des consoles Powershell dans un environnement office 365 hybride
